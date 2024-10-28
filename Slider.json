@@ -1,0 +1,44 @@
+{
+  "heroSlider": [
+    {
+      "id": 1,
+      "title": "Відкрийте нашу нову колекцію",
+      "subtitle": "Оновіть свій житловий простір з нашими новинками",
+      "image": "./img/Hero_Slider/images/01.jpg",
+      "link": "/new-arrivals",
+      "buttonText": "Переглянути"
+    },
+    {
+      "id": 2,
+      "title": "Літній розпродаж",
+      "subtitle": "Знижки до 50% на вибрані товари",
+      "image": "./img/Hero_Slider/images/02.jpg",
+      "link": "/sale",
+      "buttonText": "Забрати пропозицію"
+    },
+    {
+      "id": 3,
+      "title": "Комфорт і стиль",
+      "subtitle": "Відчуйте ідеальне поєднання комфорту та елегантності",
+      "image": "./img/Hero_Slider/images/03.jpg",
+      "link": "/comfort-style",
+      "buttonText": "Оглянути колекцію"
+    },
+    {
+      "id": 4,
+      "title": "Меблі для зовнішнього простору",
+      "subtitle": "Створіть ідеальний простір на свіжому повітрі",
+      "image": "./img/Hero_Slider/images/04.jpg",
+      "link": "/outdoor",
+      "buttonText": "Обрати для відкритого простору"
+    },
+    {
+      "id": 5,
+      "title": "Ексклюзивні пропозиції",
+      "subtitle": "Спеціальні знижки та пропозиції лише для членів",
+      "image": "./img/Hero_Slider/images/05.jpg",
+      "link": "/exclusive-offers",
+      "buttonText": "Стати учасником"
+    }
+  ]
+}
